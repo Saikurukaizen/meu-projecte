@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+f569c72 - Marc Sanchez, 17 seconds ago : Update commit_logger.yml
+6443b32 - GitHub Actions, 2 minutes ago : Auto: Add latest commits log
+f7c348d - Marc, in the future : test github action
